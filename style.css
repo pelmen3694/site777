@@ -184,7 +184,7 @@ top: 17300
     height:50%;
     width:1000px;
     transition: transform 0.3s ease;
-        background-color: black;
+        background-color: white;
 
 }
 .yeei{
@@ -221,7 +221,7 @@ margin-left: 100px
 }
 .project2{
     z-index: 10;
-        background-color: black;
+        background-color: white;
     border-radius:100px;
     margin-left: 500px;
     height:50%;
@@ -231,7 +231,7 @@ margin-left: 100px
 }
 .project3{
     z-index: 10;
-        background-color: black;
+        background-color:white;
     border-radius:100px;
     margin-left: 500px;
     height:50%;
@@ -248,7 +248,7 @@ margin-left: 100px
     margin-top: 50px;
 }
 .text1{
-    color:white;
+    color:black;
  font-size:45px;
  margin-left: 50px;
   margin-right: 50px;
