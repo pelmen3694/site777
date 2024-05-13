@@ -92,7 +92,8 @@ z-index: 7;
     left:4250px;
     border-radius:100%;
     background-color:#8A6EAD;
-  border:3px solid black;
+    border:3px solid black;
+
 
 
 }
@@ -231,7 +232,7 @@ margin-left: 100px
 }
 .project3{
     z-index: 10;
-        background-color:white;
+        background-color: white;
     border-radius:100px;
     margin-left: 500px;
     height:50%;
